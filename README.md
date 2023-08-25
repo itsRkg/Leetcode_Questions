@@ -1,7 +1,7 @@
 # Leetcode_Questions
 My collection of important leetcode questions topicwise 
 
-**LINKED LISTS**
+**->LINKED LISTS**
 
   **EASY**
     
@@ -16,3 +16,10 @@ My collection of important leetcode questions topicwise
   2. https://github.com/itsRkg/Leetcode_Questions/tree/main/0021-merge-two-sorted-lists
   3. https://github.com/itsRkg/Leetcode_Questions/tree/main/0019-remove-nth-node-from-end-of-list
   4. https://github.com/itsRkg/Leetcode_Questions/tree/main/0002-add-two-numbers
+
+
+**->DIVIDE AND CONQUER**
+
+ **MEDIUM**
+
+  1. https://github.com/itsRkg/Leetcode_Questions/tree/main/0109-convert-sorted-list-to-binary-search-tree
