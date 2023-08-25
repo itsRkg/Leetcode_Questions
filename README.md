@@ -26,6 +26,10 @@ My collection of important leetcode questions topicwise
   12. https://github.com/itsRkg/Leetcode_Questions/tree/main/2903-insert-greatest-common-divisors-in-linked-list
   13. https://github.com/itsRkg/Leetcode_Questions/tree/main/2871-double-a-number-represented-as-a-linked-list
 
+**HARD**
+
+  1. https://github.com/itsRkg/Leetcode_Questions/tree/main/0023-merge-k-sorted-lists
+  2. https://github.com/itsRkg/Leetcode_Questions/tree/main/0025-reverse-nodes-in-k-group
 
 **->DIVIDE AND CONQUER**
 
