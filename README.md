@@ -16,6 +16,15 @@ My collection of important leetcode questions topicwise
   2. https://github.com/itsRkg/Leetcode_Questions/tree/main/0021-merge-two-sorted-lists
   3. https://github.com/itsRkg/Leetcode_Questions/tree/main/0019-remove-nth-node-from-end-of-list
   4. https://github.com/itsRkg/Leetcode_Questions/tree/main/0002-add-two-numbers
+  5. https://github.com/itsRkg/Leetcode_Questions/tree/main/0138-copy-list-with-random-pointer
+  6. https://github.com/itsRkg/Leetcode_Questions/tree/main/0237-delete-node-in-a-linked-list
+  7. https://github.com/itsRkg/Leetcode_Questions/tree/main/0328-odd-even-linked-list
+  8. https://github.com/itsRkg/Leetcode_Questions/tree/main/0445-add-two-numbers-ii
+  9. https://github.com/itsRkg/Leetcode_Questions/tree/main/0860-design-circular-queue
+  10. https://github.com/itsRkg/Leetcode_Questions/tree/main/1582-design-browser-history
+  11. https://github.com/itsRkg/Leetcode_Questions/tree/main/2216-delete-the-middle-node-of-a-linked-list
+  12. https://github.com/itsRkg/Leetcode_Questions/tree/main/2903-insert-greatest-common-divisors-in-linked-list
+  13. https://github.com/itsRkg/Leetcode_Questions/tree/main/2871-double-a-number-represented-as-a-linked-list
 
 
 **->DIVIDE AND CONQUER**
