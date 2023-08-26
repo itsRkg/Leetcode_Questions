@@ -42,7 +42,7 @@ My collection of important leetcode questions topicwise
 
 **->DYNAMIC PROGRAMMING**
 
- **Intervals Problem**
+ **Knapsack DP**
 
   1. https://github.com/itsRkg/Leetcode_Questions/tree/main/0646-maximum-length-of-pair-chain
   
