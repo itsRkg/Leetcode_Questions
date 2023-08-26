@@ -45,4 +45,9 @@ My collection of important leetcode questions topicwise
  **Knapsack DP**
 
   1. https://github.com/itsRkg/Leetcode_Questions/tree/main/0646-maximum-length-of-pair-chain
+  2. https://github.com/itsRkg/Leetcode_Questions/tree/main/0416-partition-equal-subset-sum
+  3. https://github.com/itsRkg/Leetcode_Questions/tree/main/0474-ones-and-zeroes
+  4. https://github.com/itsRkg/Leetcode_Questions/tree/main/0343-integer-break
+  5. https://github.com/itsRkg/Leetcode_Questions/tree/main/0518-coin-change-ii
+  6. https://github.com/itsRkg/Leetcode_Questions/tree/main/0377-combination-sum-iv
   
