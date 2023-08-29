@@ -50,4 +50,15 @@ My collection of important leetcode questions topicwise
   4. https://github.com/itsRkg/Leetcode_Questions/tree/main/0343-integer-break
   5. https://github.com/itsRkg/Leetcode_Questions/tree/main/0518-coin-change-ii
   6. https://github.com/itsRkg/Leetcode_Questions/tree/main/0377-combination-sum-iv
+  7. https://github.com/itsRkg/Leetcode_Questions/tree/main/0993-tallest-billboard
   
+ **Longest Increasing Subsequence**
+
+  1. https://github.com/itsRkg/Leetcode_Questions/tree/main/0300-longest-increasing-subsequence
+  2. https://github.com/itsRkg/Leetcode_Questions/tree/main/0646-maximum-length-of-pair-chain
+
+
+ **->PREFIX SUM**
+
+  1. https://github.com/itsRkg/Leetcode_Questions/tree/main/2576-minimum-penalty-for-a-shop
+  2. 
