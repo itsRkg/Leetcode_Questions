@@ -61,6 +61,7 @@ My collection of important leetcode questions topicwise
  **Miscellaneous**
 
   1. https://github.com/itsRkg/Leetcode_Questions/tree/main/0062-unique-paths
+ 
  **->PREFIX SUM**
 
   1. https://github.com/itsRkg/Leetcode_Questions/tree/main/2576-minimum-penalty-for-a-shop
