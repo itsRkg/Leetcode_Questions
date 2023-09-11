@@ -74,7 +74,7 @@ My collection of important leetcode questions topicwise
   2. https://github.com/itsRkg/Leetcode_Questions/blob/main/1567-maximum-number-of-vowels-in-a-substring-of-given-length/1567-maximum-number-of-vowels-in-a-substring-of-given-length.cpp
 
 
- **GREEDY**
+ **-->GREEDY**
 
   1. https://github.com/itsRkg/Leetcode_Questions/tree/main/1407-group-the-people-given-the-group-size-they-belong-to
 
