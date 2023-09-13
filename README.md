@@ -77,6 +77,7 @@ My collection of important leetcode questions topicwise
  **-->GREEDY**
 
   1. https://github.com/itsRkg/Leetcode_Questions/tree/main/1407-group-the-people-given-the-group-size-they-belong-to
+  2. https://github.com/itsRkg/Leetcode_Questions/tree/main/0135-candy
 
 **MY SQL**
 
