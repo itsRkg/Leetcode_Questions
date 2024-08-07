@@ -82,3 +82,19 @@ My collection of important leetcode questions topicwise
 **MY SQL**
 
   1. https://github.com/itsRkg/Leetcode_Questions/tree/main/0180-consecutive-numbers
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/itsRkg/Leetcode_Questions/tree/master/0357-count-numbers-with-unique-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/itsRkg/Leetcode_Questions/tree/master/0357-count-numbers-with-unique-digits) |
+## Backtracking
+|  |
+| ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/itsRkg/Leetcode_Questions/tree/master/0357-count-numbers-with-unique-digits) |
+<!---LeetCode Topics End-->
