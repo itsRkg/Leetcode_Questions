@@ -96,5 +96,10 @@ My collection of important leetcode questions topicwise
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/itsRkg/Leetcode_Questions/tree/master/0040-combination-sum-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/itsRkg/Leetcode_Questions/tree/master/0357-count-numbers-with-unique-digits) |
+## Array
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/itsRkg/Leetcode_Questions/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
