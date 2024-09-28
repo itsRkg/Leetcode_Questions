@@ -92,6 +92,7 @@ My collection of important leetcode questions topicwise
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/itsRkg/Leetcode_Questions/tree/master/0044-wildcard-matching) |
 | [0357-count-numbers-with-unique-digits](https://github.com/itsRkg/Leetcode_Questions/tree/master/0357-count-numbers-with-unique-digits) |
 ## Backtracking
 |  |
@@ -102,4 +103,16 @@ My collection of important leetcode questions topicwise
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/itsRkg/Leetcode_Questions/tree/master/0040-combination-sum-ii) |
+## String
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/itsRkg/Leetcode_Questions/tree/master/0044-wildcard-matching) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/itsRkg/Leetcode_Questions/tree/master/0044-wildcard-matching) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/itsRkg/Leetcode_Questions/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
